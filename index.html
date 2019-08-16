@@ -1,7 +1,53 @@
 <!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- As 3 meta tags acima *devem* vir em primeiro lugar dentro do `head`; qualquer outro conteúdo deve vir *após* essas tags -->
+    <title>JPomodoro</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/teste.css" rel="stylesheet">
+
+    <!-- HTML5 shim e Respond.js para suporte no IE8 de elementos HTML5 e media queries -->
+    <!-- ALERTA: Respond.js não funciona se você visualizar uma página file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+        <nav class="nav-bar text-right" id="nav">
+            <a class="navbar-brand" href="https://bit.ly/2BB7gw2" target=”_blank” title="Clique para ir para meu whatsapp">
+                <img src="img/icone-whatsapp.png" id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+            <a class="navbar-brand" href="https://www.linkedin.com/in/jamerson-walderson-803618171/" target="_blank" title="Clique para ver meu perfil no linkedin">
+                <img src="img/icone-linkedin.png" id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+            <a class="navbar-brand" href="#">
+                <img src="img/icone-email(2).png" id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+            <a class="navbar-brand" href="https://github.com/JamersonWalderson" target=”_blank” title="Meu github">
+                <img src="img/icone-github.png" id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+        </nav>
+        <div class="jumbotron border" id="conteudo">
+            <div class="container text-center">
+                    <h1 class="display-1">JPomodoro v.1.0.0 beta</h1>
+                    <p class="lead"> Seja o senhor do seu tempo e controle seus resultados com esse simples e funcional gestor de tarefas.
+                    Em italiano Pomodoro significa tomate, e é uma técnica criada em 1980 pelo italiano Francesco Cirillo, que teve a ideia de usar cronômetros de cozinha para dividir o tempo em ciclos.</p>
+                    <button type="button" class="btn btn-primary">Baixar gratuitamente v.1.0.0 beta</button>
+                    <button type="button" class="btn btn-secondary">Como usar?</button>
+            </div>
+        </div>
+        <footer class="container-fluid text-center blockquote-footer" id="rodape">
+            <p>Desenvolvido por Jamerson Walderson</p>
+        </footer>
+    <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
 </html>

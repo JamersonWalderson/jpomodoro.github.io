@@ -1,0 +1,19 @@
+body {
+    background-image: url("/img/bg-1.jpg");
+    
+
+}
+
+#nav {
+    /* background-color: brown; */
+
+}
+.jumbotron {
+    background-image: url("img/bg-1.jpg");
+    height: 75vh;
+
+}
+#rodape {
+    /* background-color: aqua; */
+
+}
