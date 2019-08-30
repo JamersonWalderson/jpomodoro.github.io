@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+
+<body>
+        <nav class="nav-bar text-right" id="nav">
+            <a class="navbar-brand" href="https://bit.ly/2BB7gw2" target=”_blank” title="Clique para ir para meu whatsapp">
+                <img src="{{ '/assets/img/icone-whatsapp.png' }} " id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+            <a class="navbar-brand" href="https://www.linkedin.com/in/jamerson-walderson-803618171/" target="_blank" title="Clique para ver meu perfil no linkedin">
+                <img src="{{ '/assets/img/icone-linkedin.png' }} " id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+            <a class="navbar-brand" href="#">
+                <img src="{{ '/assets/img/icone-email(2).png' }} " id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+            <a class="navbar-brand" href="https://github.com/JamersonWalderson" target=”_blank” title="Meu github">
+                <img src="{{ '/assets/img/icone-github.png' }} " id="img-contato-icone" class="d-inline-block align-top">
+            </a>
+        </nav>
+
+        {{ content }}
+    
+    
+        <footer class="container-fluid text-center blockquote-footer" id="rodape">
+            <p>Desenvolvido por Jamerson Walderson</p>
+        </footer>
+    <!-- jQuery (obrigatório para plugins JavaScript do Bootstrap) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Inclui todos os plugins compilados (abaixo), ou inclua arquivos separadados se necessário -->
+    <script src="{{ '../_include/js/bootstrap.min.js' }}"></script>
+    
+  </body>
+</html>
