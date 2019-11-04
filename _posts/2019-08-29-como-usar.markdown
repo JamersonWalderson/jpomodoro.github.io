@@ -1,9 +1,39 @@
 ---
 layout: post
-title: Como usar
+title: Como usar?
 date:   2019-08-29 22:08:00 -0300
 ---
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sociis natoque penatibus et magnis dis parturient montes. Odio pellentesque diam volutpat commodo sed. Viverra ipsum nunc aliquet bibendum enim. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. Vel eros donec ac odio. Sit amet aliquam id diam maecenas ultricies. Montes nascetur ridiculus mus mauris vitae. Suscipit tellus mauris a diam maecenas sed. Bibendum ut tristique et egestas quis. In egestas erat imperdiet sed euismod nisi porta. Quam viverra orci sagittis eu volutpat odio.
+Pomodoro em italiano significa tomate, e é uma técnica criada em 1980 pelo italiano Francesco Cirillo, que teve a ideia de usar cronômetros de cozinha para dividir o tempo em ciclos.
+
+Cada bloco de 30 minutos é composto por 25 minutos sem interrupções e com o maior foco possivel, com 5 minutos de descanço.
+
+<h3>Aqui vão algumas dicas para ter sucesso em seus projetos usando essa incrivel técnica.</h3>
+<ol>
+    <li><h5>Prepare o ambiente.</h5></li>
+    Para que você possa se concentrar em sua tarefa você precisa ter um ambiente preparado para isso, tente evitar o máximo distrações como TV e celular, antes de começar vá ao banheiro e procure sempre ter algum liquido por perto pode ser chá, café, água o que achar melhor. O objetivo é ter foco e aumentar sua produtividade ao máximo.
+    <li><h5>Avise as pessoas</h5></li>
+    Acho essa dica bem interessante, uma das maiores dificuldades de quem trabalha ou estuda em casa são as pessoas que estão ao redor,
+    ninguém é obrigado a deixar de fazer as atividades do dia-a-dia porém, tente criar o melhor ambiente possivel, faça disso uma rotina
+    tenha atitudes de quem realmente está buscando resultados, não adianta você simplesmente colocar um copo de café em cima da mesa e ligar o notebook com o  wikipedia aberto,
+    se a maior parte do tempo você se distrai com alguma imagem de bixinho fofinho no Instagram, a sua credibilidade do que você está fazendo vai diminuir exponencialmente com quem está ao seu redor te observando, fazendo com que ela não leve a serio o que você está tentando fazer.
+    <li><h5>Defina tarefas</h5></li>
+    Organização é a chave de tudo, as vezes você pode pensar que não tem tempo para fazer algo mas na verdade seu tempo está mal administrado.
+    Mesmo que você tenha 1 hora, pense no que precisa ser feito e divida em sub atividades e use o JPomodoro para listar essas sub atividades e medir seu desempenho em cada uma delas,
+    assim você verá quanto tempo você leva para concluir uma tarefa, assim ficará bem mais fácil de medir o que da tempo ou não de fazer nas próximas vezes.<br>
+    Exemplo de atividade: Estudar sobre a história da Grécia.
+    <ul>
+        <li>Procurar o máximo de conteúdo em livros e sites</li>
+        <li>Ler 5 páginas do livro</li>
+        <li>Assistir playlist</li>
+        <li>Responder 10 exercicios relacionados</li>
+    </ul>
+    <li><h5>Respeita o tempo</h5></li>
+    Podemos fazer ou aprender qual quer coisa, mas tudo tem seu tempo então aprenda a respeitar o seu. Mesmo que o sua tarefa esteja muito empolgante,
+    faça uma pausa vá falar com alguém, vá ao banheiro, de uma olhada no celular para ver se tem alguma nova mensagem enfim, limpe sua cabeça, use esse momento
+    para se distrair com algo que não seja sua tarefa, acredite, isso é muito importante e essencial para obter bons resultados. Não adianta passar 10 horas seguidas
+    focado estudando se sua cabeça já está cansada e você não sabe mais nem o que está lendo direito.
+
+</ol>
