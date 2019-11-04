@@ -1,0 +1,9 @@
+body {
+  background-image: url("/_includes/bg-3.jpg");
+  color: white; }
+
+.jumbotron {
+  height: 75vh; }
+
+#rodape {
+  /* background-color: aqua; */ }

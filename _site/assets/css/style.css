@@ -1,0 +1,30 @@
+body {
+    background-image: url("../img/bg-3.jpg");
+    color: white;    
+}
+
+a {
+    color: white;
+    
+    
+}
+a:hover {
+    text-decoration: none;
+    color:azure;
+}
+#nav {
+    
+
+}
+.container {
+    
+    
+}
+.jumbotron {}
+    height: 75vh;
+
+}
+#rodape {
+    /* background-color: aqua; */
+
+}
